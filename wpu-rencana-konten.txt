@@ -3,7 +3,10 @@ RENCANA KONTEN
 -javascript
  * ES6
  * Frameworks javascript
+ ^ vue
 -Struktur data dasar
 -PHP Frameworks
+ ^ laravel
 -interview
 -vlogs
+-Phyton
